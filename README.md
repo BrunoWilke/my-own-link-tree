@@ -1,2 +1,9 @@
-# my-own-link-tree
-I made my own link tree using front-end development languages
+# My Own Link Tree
+
+A link tree project to display my social networks
+
+### 🛠️Made with
+HTML e CSS only
+
+### ⌨️ Content
+It conteins a fold with images, one CSS file and one HTML file
